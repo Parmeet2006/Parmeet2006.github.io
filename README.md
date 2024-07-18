@@ -6,26 +6,27 @@ This is the copy of my Certificate
 
 The main things which I learned are as follows:
 
-Formulas and Functions
+_Formulas and Functions_
 
-Advanced Formulas: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
-Array Formulas: Mastered array formulas to perform complex calculations involving multiple cells or ranges simultaneously, enhancing data processing capabilities.
+_Advanced Formulas_: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
+
+_Array Formulas_: Mastered array formulas to perform complex calculations involving multiple cells or ranges simultaneously, enhancing data processing capabilities.
 Data Analysis
 
-PivotTables and PivotCharts: Utilized PivotTables to summarize and analyze large datasets quickly. Created PivotCharts to visually represent summarized data for insightful decision-making.
+_PivotTables and PivotCharts_: Utilized PivotTables to summarize and analyze large datasets quickly. Created PivotCharts to visually represent summarized data for insightful decision-making.
 
-Data Management Techniques: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
+_Data Management Techniques_: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
 
-Data Visualization
+_Data Visualization_
 
-Chart Creation: Developed proficiency in creating and customizing various chart types to visualize data trends and comparisons clearly.
+_Chart Creation_: Developed proficiency in creating and customizing various chart types to visualize data trends and comparisons clearly.
 
-Bar Charts: Used to compare quantities or values across categories.
+_Bar Charts_: Used to compare quantities or values across categories.
 
-Line Charts: Ideal for showing trends over time or continuous data series.
+_Line Charts_: Ideal for showing trends over time or continuous data series.
 
-Pie Charts: Used to show parts of a whole, where each slice represents a proportion of the total.
+_Pie Charts_: Used to show parts of a whole, where each slice represents a proportion of the total.
 
-Scatter Plots: Used to display relationships or correlations between two sets of data points.
+_Scatter Plots_: Used to display relationships or correlations between two sets of data points.
 
-Histograms: Used to visualize distribution of data within a dataset, showing frequency distribution of numerical data.
+_Histograms_: Used to visualize distribution of data within a dataset, showing frequency distribution of numerical data.
