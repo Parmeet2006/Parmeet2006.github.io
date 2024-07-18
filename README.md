@@ -6,7 +6,7 @@ This is the copy of my Certificate
 
 The main things which I learned are as follows:
 
-##Formulas and Functions
+**Formulas and Functions**
 
 **Advanced Formulas**: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
 
