@@ -17,7 +17,7 @@ Data Analysis
 
 **Data Management Techniques**: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
 
-##Data Visualization
+**Data Visualization**
 
 **Chart Creation**: Developed proficiency in creating and customizing various chart types to visualize data trends and comparisons clearly.
 
