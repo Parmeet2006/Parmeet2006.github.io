@@ -6,16 +6,16 @@ This is the copy of my Certificate
 
 The main things which I learned are as follows:
 
-_Formulas and Functions_
+**Formulas and Functions**
 
-_Advanced Formulas_: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
+**Advanced Formulas**: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
 
-_Array Formulas_: Mastered array formulas to perform complex calculations involving multiple cells or ranges simultaneously, enhancing data processing capabilities.
+**Array Formulas**: Mastered array formulas to perform complex calculations involving multiple cells or ranges simultaneously, enhancing data processing capabilities.
 Data Analysis
 
-_PivotTables and PivotCharts_: Utilized PivotTables to summarize and analyze large datasets quickly. Created PivotCharts to visually represent summarized data for insightful decision-making.
+**PivotTables and PivotCharts**: Utilized PivotTables to summarize and analyze large datasets quickly. Created PivotCharts to visually represent summarized data for insightful decision-making.
 
-_Data Management Techniques_: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
+**Data Management Techniques**: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
 
 _Data Visualization_
 
