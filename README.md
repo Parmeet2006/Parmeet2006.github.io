@@ -31,3 +31,5 @@
 **Scatter Plots**: Used to display relationships or correlations between two sets of data points.
 
 **Histograms**: Used to visualize distribution of data within a dataset, showing frequency distribution of numerical data.
+
+At last, I would like to conclude that this course has significantly improved my proficiency in Excel for data analysis and reporting purposes. Also i would like to thank GNDEC for providing this opportunity.
