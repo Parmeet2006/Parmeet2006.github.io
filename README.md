@@ -6,7 +6,7 @@ This is the copy of my Certificate
 
 The main things which I learned are as follows:
 
-**Formulas and Functions**
+##Formulas and Functions
 
 **Advanced Formulas**: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
 
@@ -17,16 +17,16 @@ Data Analysis
 
 **Data Management Techniques**: Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
 
-_Data Visualization_
+##Data Visualization
 
-_Chart Creation_: Developed proficiency in creating and customizing various chart types to visualize data trends and comparisons clearly.
+**Chart Creation**: Developed proficiency in creating and customizing various chart types to visualize data trends and comparisons clearly.
 
-_Bar Charts_: Used to compare quantities or values across categories.
+**Bar Charts**: Used to compare quantities or values across categories.
 
-_Line Charts_: Ideal for showing trends over time or continuous data series.
+**Line Charts**: Ideal for showing trends over time or continuous data series.
 
-_Pie Charts_: Used to show parts of a whole, where each slice represents a proportion of the total.
+**Pie Charts**: Used to show parts of a whole, where each slice represents a proportion of the total.
 
-_Scatter Plots_: Used to display relationships or correlations between two sets of data points.
+**Scatter Plots**: Used to display relationships or correlations between two sets of data points.
 
-_Histograms_: Used to visualize distribution of data within a dataset, showing frequency distribution of numerical data.
+**Histograms**: Used to visualize distribution of data within a dataset, showing frequency distribution of numerical data.
