@@ -1,6 +1,3 @@
 # Parmeet2006.github.io
-## Activity Report of Induction Program
-	| Syntax | USS DIN VO GOLA KHATAM HO JAYEGA. AAAHHHHH DUKH HI DUKH|
-| ----------- | ----------- |
-| Header | Title |
-| resource person | Shri Pyaare lal Garg|
+## Welcome to my GitHub repository showcasing my Excel course certificate and related materials. This repository serves as a testament to my proficiency in Excel and includes supplementary documents that highlight my learning journey.
+	
