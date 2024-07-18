@@ -6,7 +6,7 @@
 
 **The main things which I learned are as follows:**
 
-<u>**Formulas and Functions**</u>
+**Formulas and Functions**
 
 **Advanced Formulas**: Explored advanced Excel formulas such as INDEX, MATCH, and SUM etc. to efficiently retrieve and manipulate data within worksheets.
 
