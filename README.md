@@ -8,10 +8,11 @@
 
 **Formulas and Functions**
 
-**Advanced Formulas**: Explored advanced Excel formulas such as VLOOKUP, INDEX, MATCH, and SUMIF to efficiently retrieve and manipulate data within worksheets.
+**Advanced Formulas**: Explored advanced Excel formulas such as INDEX, MATCH, and SUM etc. to efficiently retrieve and manipulate data within worksheets.
 
 **Array Formulas**: Mastered array formulas to perform complex calculations involving multiple cells or ranges simultaneously, enhancing data processing capabilities.
-Data Analysis
+
+**Data Analysis**
 
 **PivotTables and PivotCharts**: Utilized PivotTables to summarize and analyze large datasets quickly. Created PivotCharts to visually represent summarized data for insightful decision-making.
 
